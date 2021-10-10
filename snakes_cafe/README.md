@@ -4,4 +4,4 @@
 
 - running clients: TBA
 
-- [PR branches](https://github.com/Moha-AlHanbali/snakes_cafe/pulls)
+- [PR](https://github.com/Moha-AlHanbali/snakes_cafe/pull/1)
