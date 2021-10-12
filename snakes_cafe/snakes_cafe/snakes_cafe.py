@@ -61,7 +61,7 @@ def welcome():
 
     while True:
 
-        response = input()
+        response = input("> ")
         if response != "quit":
             if len(full_order) == 0:
                 full_order.append({response.lower() : 1})
